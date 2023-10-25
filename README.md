@@ -7,6 +7,6 @@ Hello.
 ## Hello.
 # Hello.
 
-<ol>1.순서를</ol>
-<ol>2.지정해</ol>
-<ol>3. 봤습니다</ol>
+<ol>순서를</ol>
+<ol>지정해</ol>
+<ol>봤습니다</ol>
