@@ -7,6 +7,4 @@ Hello.
 ## Hello.
 # Hello.
 
-<ol>순서를</ol>
-<ol>지정해</ol>
-<ol>봤습니다</ol>
+[Linkedin]([https://google.com](https://www.linkedin.com/in/%EB%AF%BC%EC%A7%84-%EB%B0%95-a93016289/)https://www.linkedin.com/in/%EB%AF%BC%EC%A7%84-%EB%B0%95-a93016289/)
